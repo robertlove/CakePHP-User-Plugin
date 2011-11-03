@@ -1,0 +1,24 @@
+CakePHP User Plugin
+
+A CakePHP Plugin for User authentication management
+
+INSTALLATION
+------------
+
+1. Copy User to your app/Plugin directory
+2. Load the plugin in app/Config/bootstrap.php
+
+CONFIGURATION
+---------------
+
+TODO: Make configurable
+
+USAGE
+---------------
+
+Access the plugin at /user/users/login
+
+LICENSE
+-------
+
+The files in this archive are released under the new BSD license. You can find a copy of this license in LICENSE.
